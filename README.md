@@ -1,2 +1,2 @@
-# Implementing-Research-Paper
-This repository will contains implementation of research papers
+# Algorithmns From Scratch
+This repository will contains implementation of machine learning and deep learning.
